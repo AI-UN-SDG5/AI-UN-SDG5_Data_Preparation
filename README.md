@@ -1,5 +1,4 @@
 # AI-UN-SDG5_Data_Preparation
-
 This repository contains a Jupyter notebook called data_preparation.ipynb that generates csv files for the [AI-UN-SDG5](https://github.com/AI-UN-SDG5/AI-UN-SDG5-App) application and database to be functional.
 
 ## Instructions to Execute the Jupyter Notebook and Generate the CSV Files
