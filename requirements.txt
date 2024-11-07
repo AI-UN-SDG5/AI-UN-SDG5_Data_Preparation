@@ -1,0 +1,9 @@
+countryinfo
+hdx-python-country
+jupyter
+numpy
+pandas
+phone-iso3166
+phonenumbers
+python-dotenv
+uuid
